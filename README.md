@@ -1,4 +1,4 @@
-# SuperStore Sales Dashboard
+# SuperStore Sales Dashboard - Tableau
 
 [`Link`](https://public.tableau.com/views/SuperStoreSales_17357885091090/TheStoryofSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
